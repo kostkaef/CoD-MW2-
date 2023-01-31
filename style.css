@@ -1,0 +1,529 @@
+    body {
+        background-color: grey;
+    }
+
+
+
+    .header {
+        display: inline-block;
+
+        position: absolute;
+        top: 0%;
+        left: 0%;
+        width: 100%;
+        height: 33%;
+    }
+
+    .header2 {
+        display: inline-block;
+        background-color: black;
+        position: absolute;
+        top: 0%;
+        left: 0%;
+        width: 100%;
+        height: 20%;
+    }
+
+    .home {
+        position: absolute;
+
+    }
+
+    .logo {
+        position: absolute;
+        width: 5%;
+        height: 100%;
+    }
+
+    .logo img {
+        position: absolute;
+        top: 0%;
+        left: 10%;
+    }
+
+    .ul {
+        display: block;
+        position: absolute;
+        left: 80%;
+        color: white;
+        top: 1.5%;
+
+    }
+
+    .ul1 {
+        color: white;
+        position: absolute;
+        display: flex;
+        list-style: none;
+    }
+
+    .bg div {
+        display: block;
+        position: absolute;
+        top: 8%;
+        left: 0%;
+        width: 100%;
+        height: 70%;
+        /* background-image: url("https://editors.dexerto.com/wp-content/uploads/2022/10/22/MW2-review.jpg"); */
+    }
+
+    .bg img {
+        width: 100%;
+        height: 50%;
+    }
+
+    .a1 {
+        color: white;
+        margin-left: 15px;
+        font-family: sans-serif;
+        font-size: 20px;
+    }
+
+    .content {
+        display: inline-block;
+        position: absolute;
+        top: 58%;
+        left: 0%;
+        width: 100%;
+        height: 60%;
+    }
+
+    .img1 {
+        display: block;
+        position: absolute;
+        margin-top: 2%;
+        margin-left: 4.5%;
+    }
+
+    .img2 {
+        display: block;
+        position: absolute;
+        margin-top: 20%;
+        margin-left: 4.5%;
+    }
+
+    .img3 {
+        display: block;
+        position: absolute;
+        margin-top: 20%;
+        margin-left: 24.7%;
+    }
+
+    .img4 {
+        display: block;
+        position: absolute;
+        margin-top: 20%;
+        margin-left: 14.5%;
+    }
+
+    .texth {
+        display: inline-block;
+        position: absolute;
+        left: 45%;
+        margin-top: 5%;
+        font-family: monospace;
+        font-size: 32px;
+    }
+
+    .texth hr {
+        border: 1px dashed green;
+    }
+
+    .textp {
+        display: block;
+        position: absolute;
+        left: 45%;
+        margin-top: 15%;
+        font-family: monospace;
+        font-size: 25px;
+    }
+
+    .textp hr {
+        border: 1px dashed green;
+    }
+
+    .black1 {
+        display: block;
+        width: 100%;
+        height: 30%;
+        background-color: black;
+        position: absolute;
+        top: 148%;
+    }
+
+    .footer {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 7%;
+        background-color: black;
+        top: 130%;
+        left: 0%;
+    }
+
+    .footerp {
+        position: absolute;
+        display: block;
+        width: 100%;
+        height: 7%;
+        background-color: black;
+        top: 100%;
+        left: 0%;
+    }
+
+    .a15 div {
+        display: block;
+        position: absolute;
+        background-color: black;
+        width: 100%;
+        height: 100%;
+    }
+
+    .a15 p {
+        color: white;
+        font-family: Arial;
+        position: absolute;
+        top: 15%;
+        left: 90%;
+    }
+
+    .insta {
+        position: absolute;
+        display: block;
+        margin-top: 1%;
+        margin-left: 1%;
+    }
+
+    .facebook {
+        position: absolute;
+        display: block;
+        margin-top: 0.9%;
+        margin-left: 4%;
+    }
+
+    .youtube {
+        position: absolute;
+        display: block;
+        margin-top: 0.5%;
+        margin-left: 7%;
+    }
+
+    .p1 {
+        position: absolute;
+        top: 65%;
+        left: 10%;
+        width: 15%;
+        height: 30%;
+        background-color: aqua;
+    }
+
+    .im {
+        position: absolute;
+        top: 0%;
+        left: 0%;
+        width: 100%;
+        height: 70%;
+        background-color: white;
+    }
+
+    .pt4 {
+        position: absolute;
+        top: 70%;
+        left: 0%;
+        text-align: center;
+        font-size: 12px;
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .tx {
+        position: absolute;
+        top: 70%;
+        left: 0%;
+        width: 100%;
+        height: 30%;
+        background-color: white;
+
+    }
+
+    .tx a {
+        position: absolute;
+        top: 60%;
+        left: 65%;
+        text-align: center;
+        font-size: 25px;
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .p2 {
+        position: absolute;
+        top: 65%;
+        left: 30%;
+        width: 15%;
+        height: 30%;
+        background-color: aqua;
+    }
+
+    .im2 {
+        position: absolute;
+        top: 0%;
+        left: 0%;
+        width: 100%;
+        height: 70%;
+        background-color: white;
+    }
+
+    .pt5 {
+        position: absolute;
+        top: 70%;
+        left: 0%;
+        text-align: center;
+        font-size: 12px;
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .tx2 {
+        position: absolute;
+        top: 70%;
+        left: 0%;
+        width: 100%;
+        height: 30%;
+        background-color: white;
+
+    }
+
+    .tx2 a {
+        position: absolute;
+        top: 60%;
+        left: 65%;
+        text-align: center;
+        font-size: 25px;
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .p3 {
+        position: absolute;
+        top: 65%;
+        left: 50%;
+        width: 15%;
+        height: 30%;
+        background-color: aqua;
+    }
+
+    .im3 {
+        position: absolute;
+        top: 0%;
+        left: 0%;
+        width: 100%;
+        height: 70%;
+        background-color: white;
+    }
+
+    .pt6 {
+        position: absolute;
+        top: 70%;
+        left: 0%;
+        text-align: center;
+        font-size: 12px;
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .tx3 {
+        position: absolute;
+        top: 70%;
+        left: 0%;
+        width: 100%;
+        height: 30%;
+        background-color: white;
+
+    }
+
+    .tx3 a {
+        position: absolute;
+        top: 60%;
+        left: 40%;
+        text-align: center;
+        font-size: 25px;
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .p4 {
+        position: absolute;
+        top: 65%;
+        left: 70%;
+        width: 15%;
+        height: 30%;
+        background-color: aqua;
+    }
+
+    .im4 {
+        position: absolute;
+        top: 0%;
+        left: 0%;
+        width: 100%;
+        height: 70%;
+        background-color: white;
+    }
+
+    .pt7 {
+        position: absolute;
+        top: 70%;
+        left: 0%;
+        text-align: center;
+        font-size: 12px;
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .tx4 {
+        position: absolute;
+        top: 70%;
+        left: 0%;
+        width: 100%;
+        height: 30%;
+        background-color: white;
+
+    }
+
+    .tx4 a {
+        position: absolute;
+        top: 60%;
+        left: 55%;
+        text-align: center;
+        font-size: 25px;
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+
+    .contentc {
+        display: inline-block;
+        position: absolute;
+        top: 74%;
+        left: 0%;
+        width: 100%;
+        height: 55%;
+    }
+    .contentpa {
+        display: inline-block;
+        position: absolute;
+        top: 74%;
+        left: 0%;
+        width: 100%;
+        height: 55%;
+    }
+
+    .form {
+        position: absolute;
+        width: 50%;
+        height: 100%;
+        top: 5%;
+        left: 5%;
+        font-family: Arial;
+    }
+
+    input[name=fname] {
+        position: absolute;
+        width: 65%;
+        padding: 12px 20px;
+        top: 20%;
+        background-color: lightslategray;
+        border: 2px solid greenyellow;
+        box-sizing: border-box;
+
+    }
+    input[name=lname] {
+        position: absolute;
+        width:65%;
+        padding: 12px 20px;
+        top: 30%;
+        background-color: lightslategray;
+        border: 2px solid greenyellow;
+        box-sizing: border-box;
+
+    }
+    input[name=text] {
+        position: absolute;
+        width: 65%;
+        padding: 12px 20px;
+        top: 51%;
+        background-color: lightslategray;
+        border: 2px solid greenyellow;
+        box-sizing: border-box;
+
+    }
+    input[name=email] {
+        position: absolute;
+        width: 65%;
+        top: 39%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        background-color: lightslategray;
+        border: 2px solid greenyellow;
+        box-sizing: border-box;
+    }
+    ::placeholder
+    {
+        color: greenyellow;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    input[type=submit] {
+        width: 50%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        top: 61%;
+        left: 4.5%;
+        background-color: lightslategrey;
+        border: 2px solid greenyellow;
+        box-sizing: border-box;
+        position: absolute;
+        color: greenyellow;
+    }
+
+    .iframe
+    {
+        position: absolute;
+        width: 36%;
+        height: 55%;
+        margin-top: 7%;
+        left: 60%;
+    }
+
+    .table
+    {
+        position: absolute;
+        top: 20%;
+        left: 25%;
+        width: 60%;
+        height: 50%;
+
+    }
+    table, th, td {
+        border: 1px solid;
+        border-collapse: collapse;
+      }
+      .tr1
+      {
+        background-color: green;
+        border: 6px solid;
+        font-size: 45px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      }
+      .tr2
+      {
+        background-color: lightgray;
+        border: 6px solid;
+        font-size: 45px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      }
+
+      .th1
+      {
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        background-color: lightgreen;
+      }
+
